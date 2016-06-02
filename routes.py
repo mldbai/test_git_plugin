@@ -1,1 +1,1 @@
-mldb.plugin.set_return({ "version": 1 })
+mldb.plugin.set_return({ "version": 2 })
